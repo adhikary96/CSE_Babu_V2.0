@@ -30,7 +30,7 @@ header {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  padding: 0 40px;
+  padding: 0 20px;
   -webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.4);
           box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.4);
   position: fixed;
@@ -663,6 +663,7 @@ div.footer-main {
           align-items: flex-start;
   background-color: #2f3640;
   color: #fff;
+  margin-top: 60px;
 }
 
 div.footer-main div.footer-1 {

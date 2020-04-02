@@ -90,7 +90,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 getPadding("40x");
+    padding: 0 getPadding("20x");
     box-shadow: 1px 1px 5px rgba(0,0,0,0.4);
     position: fixed;
     width: 100%;
@@ -554,6 +554,7 @@ div.footer-main {
     align-items: flex-start;
     background-color: getColor("footer_bg");
     color: getColor("footer_color");
+    margin-top: 60px;
 
     div.footer-1 {
         display: flex;
